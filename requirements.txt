@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pdf2image
+opencv-python-headless
+numpy
+music21
+pydub
+pyttsx3
